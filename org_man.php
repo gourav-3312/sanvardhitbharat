@@ -4,7 +4,7 @@
 <head>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>SanvardhitBharat</title>
+    <title>ImmersiveFusion</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="style.css">
@@ -16,10 +16,10 @@
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <div class="center-content">
+        <!-- <div class="center-content">
             <img src="img/subtract.png" alt="Subtract3143" class="home-subtract" />
-        </div>
-        <a class="navbar-brand" href="#">SanvardhitBharat</a>
+        </div> -->
+        <a class="navbar-brand" href="#">ImmersiveFusion</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>

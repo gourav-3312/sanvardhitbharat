@@ -4,7 +4,7 @@
 <head>
     
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>SanvardhitBharat</title>
+    <title>ImmersiveFusion</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="style.css">
@@ -14,7 +14,7 @@
 
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">SanvardhitBharat</a>
+        <a class="navbar-brand" href="#">ImmersiveFusion</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -53,7 +53,7 @@
     </nav>
     
     <div class="jumbotron">
-  <h1 class="display-4">SanvardhitBharat</h1>
+  <h1 class="display-4">ImmersiveFusion</h1>
   <hr class="my-4">
   <p class="lead">
     <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
@@ -68,12 +68,12 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-12">
-                    <img src="img3.jpg" class="img-fluid aboutimg">
+                    <img src="assets/img3.jpg" class="img-fluid aboutimg">
                 </div>
 
                 <div class="col-lg-6 col-md-6 col-12">
-                    <h2 class="display-4">SanvardhitBharat</h2>
-                    <p class="py-5">An Augmented Reality (AR) based solution for online accessibility of national events as immersive experiences for the citizens...</p>
+                    <h2 class="display-4">ImmersiveFusion</h2>
+                    <p class="py-5">An Augmented Reality (AR) based solution for online accessibility of national events as immersive experiences...</p>
                     <a href="about.php" class="btn btn-success">Eplore More</a>
                 </div>
             </div>
@@ -81,7 +81,7 @@
     </section>
 
     <footer>
-        <p class="p-3 bg-dark text-white">SanvardhitBharat</p>
+        <p class="p-3 bg-dark text-white">ImmersiveFusion</p>
     </footer>
 
 

@@ -9,7 +9,7 @@
     <!-- <meta charset="UTF-8"> -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
-    <title>SanvardhitBharat</title>
+    <title>ImmersiveFusion</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="style.css">
@@ -19,7 +19,7 @@
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">SanvardhitBharat</a>
+        <a class="navbar-brand" href="#">ImmersiveFusion</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -66,33 +66,33 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-12">
                     <div class="card">
-                        <img class="card-img-top" src="image3.png" alt="Card image cap">
+                        <img class="card-img-top" src="assets/image3.png" alt="Card image cap">
                         <div class="card-body">
                             <h5 class="card-title">Experience 1</h5>
                             <p class="card-text"></p>
-                            <a href="app.html" class="btn btn-primary">View In Your Space</a>
+                            <a href="ar_models/app.html" class="btn btn-primary">View In Your Space</a>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-4 col-12">
                     <div class="card">
-                        <img class="card-img-top" src="image.png" alt="Card image cap">
+                        <img class="card-img-top" src="assets/image.png" alt="Card image cap">
                         <div class="card-body">
                             <h5 class="card-title">Experience 2</h5>
                             <p class="card-text"></p>
-                            <a href="app2.html" class="btn btn-primary">View In Your Space</a>
+                            <a href="ar_models/app2.html" class="btn btn-primary">View In Your Space</a>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-4 col-12">
                     <div class="card">
-                        <img class="card-img-top" src="image2.png" alt="Card image cap">
+                        <img class="card-img-top" src="assets/image2.png" alt="Card image cap">
                         <div class="card-body">
                             <h5 class="card-title">Experience 3</h5>
                             <p class="card-text"></p>
-                            <a href="app3.html" class="btn btn-primary">View In Your Space</a>
+                            <a href="ar_models/app3.html" class="btn btn-primary">View In Your Space</a>
                         </div>
                     </div>
                 </div>

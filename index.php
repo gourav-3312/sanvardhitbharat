@@ -19,10 +19,10 @@
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <div class="center-content">
-            <img src="sanvardhit.png" alt="Subtract3143" class="home-subtract" />
-        </div>
-        <a class="navbar-brand" href="#">SanvardhitBharat</a>
+        <!-- <div class="center-content">
+            <img src="immerse.png" alt="Subtract3143" class="home-subtract" />
+        </div> -->
+        <a class="navbar-brand" href="#">ImmersiveFusion</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -70,13 +70,13 @@
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="d-block w-100" src="img.jpg" alt="First slide">
+                <img class="d-block w-100" src="assets/img.jpg" alt="First slide">
             </div>
             <div class="carousel-item">
-                <img class="d-block w-100" src="img1.webp" alt="Second slide">
+                <img class="d-block w-100" src="assets/img1.webp" alt="Second slide">
             </div>
             <div class="carousel-item">
-                <img class="d-block w-100" src="img2.jpg" alt="Third slide">
+                <img class="d-block w-100" src="assets/img2.jpg" alt="Third slide">
             </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -90,7 +90,7 @@
     </div>
 
     <footer>
-        <p class="p-3 bg-dark text-white">SanvardhitBharat</p>
+        <p class="p-3 bg-dark text-white">ImmersiveFusion</p>
     </footer>
 
 

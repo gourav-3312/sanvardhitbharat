@@ -5,7 +5,7 @@
     <!-- <meta charset="UTF-8"> -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
-    <title>SanvardhitBharat</title>
+    <title>ImmersiveFusion</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="style.css">
@@ -15,7 +15,7 @@
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">SanvardhitBharat</a>
+        <a class="navbar-brand" href="#">ImmersiveFusion</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -62,7 +62,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-12">
                     <div class="card">
-                        <img class="card-img-top" src="ar0.jpg" alt="Card image cap">
+                        <img class="card-img-top" src="assets/ar0.jpg" alt="Card image cap">
                         <div class="card-body">
                             <h5 class="card-title">Augmented Reality</h5>
                             <p class="card-text"></p>
@@ -73,7 +73,7 @@
 
                 <div class="col-lg-4 col-md-4 col-12">
                     <div class="card">
-                        <img class="card-img-top" src="vr.jpeg" alt="Card image cap">
+                        <img class="card-img-top" src="assets/vr.jpeg" alt="Card image cap">
                         <div class="card-body">
                             <h5 class="card-title">Virtual Reality</h5>
                             <p class="card-text"></p>
@@ -84,7 +84,7 @@
 
                 <div class="col-lg-4 col-md-4 col-12">
                     <div class="card">
-                        <img class="card-img-top" src="ar1.jpg" alt="Card image cap">
+                        <img class="card-img-top" src="assets/ar1.jpg" alt="Card image cap">
                         <div class="card-body">
                             <h5 class="card-title">Mixed Reality</h5>
                             <p class="card-text"></p>
