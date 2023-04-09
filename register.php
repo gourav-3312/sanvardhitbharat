@@ -26,7 +26,7 @@ session_start();
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>SanvardhitBharat</title>
+    <title>ImmersiveFusion</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="style.css">
@@ -103,7 +103,7 @@ session_start();
     <div class="container">
         <div class="forms">
             <div class="form login">
-                <span class="title">Welcome to SanvardhitBharat</span>
+                <span class="title">Welcome to ImmersiveFusion</span>
 
                 <form action="<?php echo htmlentities($_SERVER['PHP_SELF']); ?>" method="POST">
                     <div class="input-field">
